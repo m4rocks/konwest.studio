@@ -13,8 +13,12 @@ description: Kôň West official website
 
 # Kôň West
 
-[Follow me on Instagram!](https://instagram.com/kon_west) \
-[Follow me on Twitter!](https://twitter.com/kon_west_sk)
+<div align="center">
+
+[![](https://img.shields.io/badge/instagram-black?logo=instagram&style=for-the-badge)](https://instagram.com/kon_west)
+[![](https://img.shields.io/badge/twitter-black?logo=twitter&style=for-the-badge)](https://twitter.com/kon_west_sk)
+
+</div>
 
 ### CONCERT ON 31 NOVEMBER 2022!!!
 
