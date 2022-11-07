@@ -49,9 +49,22 @@ He appeared in the Slovak class. "Kôň" means horse in slovak.
 
 #### Where is the merch?
 
-We plan on adding merch for Kôň West. This merch will not be 
-a joke. I am warning you, if you buy, you WILL get the bought
-merch.
+Beware! This merch is **LEGIT**. If you order it, you **WILL** receive it.
+Due to low demand, the shipping fee is high. I recomend you order in a group.
+
+<a 
+href="https://merch.konwest.studio"
+alt="Kôň West Merch"
+style="
+	background-color: black;
+	border-radius: 2rem;
+	padding: .5rem 1rem;
+	color: white;
+	display: block;
+	text-align: center;
+">
+	GET THE NEW MERCH
+</a>
 
 #### What the fuck?
 
