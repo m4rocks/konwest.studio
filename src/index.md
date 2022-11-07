@@ -51,6 +51,8 @@ He appeared in the Slovak class. "Kôň" means horse in slovak.
 
 Beware! This merch is **LEGIT**. If you order it, you **WILL** receive it.
 Due to low demand, the shipping fee is high. I recomend you order in a group.
+By the way, the products are sold at the price that they are bought.
+We take $0.00 in profit.
 
 <a 
 href="https://merch.konwest.studio"
