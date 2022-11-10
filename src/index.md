@@ -17,6 +17,7 @@ description: Kôň West official website
 
 [![](https://img.shields.io/badge/instagram-black?logo=instagram&style=for-the-badge)](https://instagram.com/kon_west)
 [![](https://img.shields.io/badge/twitter-black?logo=twitter&style=for-the-badge)](https://twitter.com/kon_west_sk)
+[![](https://img.shields.io/badge/tiktok-black?logo=tiktok&style=for-the-badge)](https://tiktok.com/kon_west)
 
 </div>
 
