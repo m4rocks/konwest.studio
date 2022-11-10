@@ -36,6 +36,15 @@ style="
 	GET NFT CONCERT TICKET
 </a>
 
+### NEW: Kôň West Podcast
+
+Kôň West is going to host a podcast called
+Kôň West Podcast where we are going to invite
+FLLS students and talk about different subjects.
+
+The podcast will be available on Spotify,
+Google Podcasts, Apple Podcasts and as RSS Feed.
+
 #### Who is Kôň West?
 
 Kôň West is the Slovak cousin of Kanye West.
